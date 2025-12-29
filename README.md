@@ -53,6 +53,6 @@ Here are screenshots of the dashboard:
 ---
 
 ## 📦 Full Project
-A complete project file is available as a ZIP: `Project.zip`
+A complete project file is available as a pbix: `Cookie Store Seasonality.pbix`
 
 
