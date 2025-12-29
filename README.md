@@ -44,9 +44,10 @@ All data tables are included in the `Dataset` folder as an Excel file.
 ## 📷 Dashboard Preview
 Here are screenshots of the dashboard:
 
-![Dashboard 1](Screenshots/screenshot1.png)
-![Dashboard 2](Screenshots/screenshot2.png)
-![Dashboard 3](Screenshots/screenshot3.png)
+![Page 1](Screenshots/Page1.jpg)
+![Page 2](Screenshots/Page2.jpg)
+![Page 3](Screenshots/Page3.jpg)
+![Data Model 3](Screenshots/Data Model.jpg)
 
 
 ---
